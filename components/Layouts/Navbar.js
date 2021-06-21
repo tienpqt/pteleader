@@ -118,25 +118,26 @@ class Navbar extends Component {
                                         <li className="nav-item">
                                             <Link href="/#">
                                                 <a className="nav-link" onClick={e => e.preventDefault()}>
-                                                    Pages <i className="fas fa-chevron-down"></i>
+                                                    Training Platform <i className="fas fa-chevron-down"></i>
                                                 </a>
                                             </Link>
                                             
                                             <ul className="dropdown-menu">
                                                 <li className="nav-item">
                                                     <Link href="/about" activeClassName="active">
-                                                        <a className="nav-link">About Us</a>
+                                                        <a className="nav-link">Getting Started</a>
                                                     </Link>
                                                 </li>
                                                 <li className="nav-item">
                                                     <Link href="/about-two" activeClassName="active">
-                                                        <a className="nav-link">About Us Two</a>
+                                                        <a className="nav-link">How to use Leader platform</a>
                                                     </Link>
                                                 </li>
  
                                                 <li className="nav-item">
                                                     <Link href="/team" activeClassName="active">
-                                                        <a className="nav-link">Team</a>
+                                                        <a className="nav-link">FAQs
+</a>
                                                     </Link>
                                                 </li>
 
@@ -181,24 +182,24 @@ class Navbar extends Component {
                                         <li className="nav-item">
                                             <Link href="/#" activeClassName="active">
                                                 <a className="nav-link" onClick={e => e.preventDefault()}>
-                                                    Training Class <i className="fas fa-chevron-down"></i>
+                                                PTE Mock Test<i className="fas fa-chevron-down"></i>
                                                 </a>
                                             </Link>
 
                                             <ul className="dropdown-menu">
                                                 <li className="nav-item">
                                                     <Link href="/services" activeClassName="active">
-                                                        <a className="nav-link">Services Style One</a>
+                                                        <a className="nav-link">Intro</a>
                                                     </Link>
                                                 </li>
                                                 <li className="nav-item">
                                                     <Link href="/services-two" activeClassName="active">
-                                                        <a className="nav-link">Services Style Two</a>
+                                                        <a className="nav-link">Register</a>
                                                     </Link>
                                                 </li>
                                                 <li className="nav-item">
                                                     <Link href="/services-three" activeClassName="active">
-                                                        <a className="nav-link">Services Style Three</a>
+                                                        <a className="nav-link">Pricinge</a>
                                                     </Link>
                                                 </li>
                                                 <li className="nav-item">

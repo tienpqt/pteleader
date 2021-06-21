@@ -18,9 +18,9 @@ class Webinar extends Component {
                     <div className="row m-0">
                         <div className="col-lg-6 p-0">
                             <div className="webinar-content">
-                                <h2>Check Out Our Latest Webinar</h2>
-                                <p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage.</p>
-
+                                <h2>Check Out Our Courses</h2>
+                                <p> PTE Leader courses provide professionally tailored lessons that focus on the sole purpose of improving students’ English language ability to ace target scores with the PTE Academic test and prepare students for their studies and works in any English-speaking countries.
+                                </p>
                                 <Link href="/index-4/#">
                                     <a className="btn btn-primary">Watch More</a>
                                 </Link>

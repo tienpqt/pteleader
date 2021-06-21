@@ -27,8 +27,8 @@ const Testimonials = () => {
         <div className="testimonials-area ptb-110">
             <div className="container">
                 <div className="section-title">
-                    <h2>What Clients Say About Us</h2>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+                    <h2>What People Say About Us</h2>
+                    <p>"Creativity is intelligence having fun." - Albert Einstein</p>
                 </div>
 
                 {display ? <OwlCarousel 
@@ -38,10 +38,10 @@ const Testimonials = () => {
                     <div className="single-testimonials-item">
                         <div className="client-info">
                             <img src="/images/author3.jpg" alt="image" />
-                            <h3>Sarah Taylor</h3>
-                            <span>CEO at Envato</span>
+                            <h3>Nhu Nguyen</h3>
+                            <span>PTE Student</span>
                         </div>
-                        <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Aliquid ullam harum sit. Accusantium veritatis dolore ducimus illum, cumque excepturi, autem rerum illo amet placeat odit corporis!</p>
+                        <p>The course was exciting, fun but a lot of work. I liked the assignments that required us to get online and also offline. Sometimes the sources from the homework materials gave me a better idea and understanding about my English level. Ideas from the course notes or book helped me a lot. I have never expected to learn so much from an online class, however, I now see the ocean life in a whole new way. I know I could have done better, but in the end I learned that an online class could be as good an angle as a regular class.  I enjoyed it very much.</p>
                         <div className="rating">
                             <i className="fas fa-star"></i>
                             <i className="fas fa-star"></i>
@@ -54,10 +54,10 @@ const Testimonials = () => {
                     <div className="single-testimonials-item">
                         <div className="client-info">
                             <img src="/images/author1.jpg" alt="image" />
-                            <h3>Steven Smith</h3>
-                            <span>CEO at Envato</span>
+                            <h3>Neo Phan</h3>
+                            <span>PTE Student</span>
                         </div>
-                        <p>Accusantium veritatis dolore ducimus illum, cumque excepturi, autem rerum illo amet placeat odit corporis! Lorem ipsum dolor sit amet consectetur, adipisicing elit. Aliquid ullam harum sit.</p>
+                        <p>With PTE Leader, I can improve all of my English skills and develop a wider knowledge of PTE Test. Trainers are friendly, kind and always willing to support students. Their platform is amazing, it provides many resources and practice materials. Please join PTE LEADER so you can become a part of this amazing team and achieve your desired score like me and other students.</p>
                         <div className="rating">
                             <i className="fas fa-star"></i>
                             <i className="fas fa-star"></i>
@@ -70,10 +70,10 @@ const Testimonials = () => {
                     <div className="single-testimonials-item">
                         <div className="client-info">
                             <img src="/images/author2.jpg" alt="image" />
-                            <h3>James Eva</h3>
-                            <span>CEO at Envato</span>
+                            <h3>James Coutus</h3>
+                            <span>Sport Coach</span>
                         </div>
-                        <p>Accusantium veritatis dolore ducimus illum, cumque excepturi, autem rerum illo amet placeat odit corporis! Lorem ipsum dolor sit amet consectetur, adipisicing elit. Aliquid ullam harum sit.</p>
+                        <p>I took an Intermediate course on PTE Leader in February 2021 and I really loved it. Trainer is very thorough and professional. There are many useful strategies, advices and practice materials. Overall, a great experience and I highly recommend it.</p>
                         <div className="rating">
                             <i className="fas fa-star"></i>
                             <i className="fas fa-star"></i>

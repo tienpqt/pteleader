@@ -8,7 +8,7 @@ class BlogPost extends Component {
                 <div className="container">
                     <div className="section-title">
                         <h2>Our Recent News</h2>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+                        <p>PTE Leader provides an online coaching platform that suit individual learner’s needs with excellent materials and coaching guides. We are proud to be one of the best online coaching platform in Australia and Vietnam. With a team of experienced professional PTE trainers, we can guide you step-by-step on how to improve your skills and achieve your desirable scores.</p>
                     </div>
 
                     <div className="row">

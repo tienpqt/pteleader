@@ -29,7 +29,7 @@ export default class Services extends Component {
                 <div className="container">
                     <div className="section-title">
                         <h2>We Offer Professional Solutions</h2>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+                        <p>IMME Australia is proudly to be one of the leading companies in providing the education support and technical solutions. We create and maintain a range of high-quality solutions and services in Education and Technology. </p>
                     </div>
 
                     <div className="tab services-tab-list">
@@ -41,42 +41,42 @@ export default class Services extends Component {
                                         onClick={(e) => this.openTabSection(e, 'tab1')}
                                     >
                                         <i className="flaticon-income"></i>
-                                        <span>Data Analysis</span>
+                                        <span>Educational Consultant</span>
                                     </li>
                                     
                                     <li
                                         onClick={(e) => this.openTabSection(e, 'tab2')}
                                     >
                                         <i className="flaticon-automatic"></i>
-                                        <span>Automation Optimization</span>
+                                        <span>Pre-Departure Orientation</span>
                                     </li>
                                     
                                     <li
                                         onClick={(e) => this.openTabSection(e, 'tab3')}
                                     >
                                         <i className="flaticon-locked"></i>
-                                        <span>Security & Surveillance</span>
+                                        <span>Student welfare support</span>
                                     </li>
                                     
                                     <li
                                         onClick={(e) => this.openTabSection(e, 'tab4')}
                                     >
                                         <i className="flaticon-molecular"></i>
-                                        <span>Health & Manufacturing</span>
+                                        <span>Online English Test Preparation</span>
                                     </li>
                                     
                                     <li
                                         onClick={(e) => this.openTabSection(e, 'tab5')}
                                     >
                                         <i className="flaticon-gear"></i>
-                                        <span>Software Engineers</span>
+                                    <span>DevOps Assessment Systems</span>
                                     </li>
                                     
                                     <li
                                         onClick={(e) => this.openTabSection(e, 'tab6')}
                                     >
                                         <i className="flaticon-ceo"></i>
-                                        <span>IT Professional</span>
+                                        <span>E-Learning & Blended Learning</span>
                                     </li>
                                 </ul>
                             </div>
@@ -85,11 +85,11 @@ export default class Services extends Component {
                                 <div className="tab-content">
                                     <div id="tab1" className="tabs-item">
                                         <div className="image">
-                                            <img src="/images/services-img1.png" alt="image" />
+                                            <img src="/images/imme/DigitalLearning.png" alt="image" />
                                         </div>
 
                                         <div className="content">
-                                            <p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomized words which don't look even slightly believable. If you are going to use a passage.</p>
+                                            <p>With an aim of helping our teacher, trainer, and students to achieve the targeted educational outcomes, IMME Australia has successfully built a wide range of study material with the highest standard that suit many levels of studying. Learning should be accessible to anyone from anywhere in the world at any time.</p>
 
                                             <Link href="/service-details">
                                                 <a className="btn btn-primary">Read More</a>
@@ -99,11 +99,11 @@ export default class Services extends Component {
 
                                     <div id="tab2" className="tabs-item">
                                         <div className="image">
-                                            <img src="/images/services-img1.png" alt="image" />
+                                            <img src="/images/imme/StudyAbroad.png" alt="image" />
                                         </div>
 
                                         <div className="content">
-                                            <p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomized words which don't look even slightly believable. If you are going to use a passage.</p>
+                                            <p>IMME Australia aims to personalize the application, provide the most accurate up to date information, consult the most efficient and economical solution to clients in accordance with relevant laws and regulation.</p>
 
                                             <Link href="/service-details">
                                                 <a className="btn btn-primary">Read More</a>
@@ -113,11 +113,11 @@ export default class Services extends Component {
         
                                     <div id="tab3" className="tabs-item">
                                         <div className="image">
-                                            <img src="/images/services-img1.png" alt="image" />
+                                            <img src="/images/imme/Welfare.png" alt="image" />
                                         </div>
 
                                         <div className="content">
-                                            <p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomized words which don't look even slightly believable. If you are going to use a passage.</p>
+                                            <p>IMME Australia takes pride to support our students with emotional, financial, and social difficulties on the journey to make the dream comes true. We partner and work closely with School’s Welfare Support Worker to make sure our students to be secure, happy, and looked after while living and studying in Australia.</p>
 
                                             <Link href="/service-details">
                                                 <a className="btn btn-primary">Read More</a>
@@ -127,11 +127,11 @@ export default class Services extends Component {
         
                                     <div id="tab4" className="tabs-item">
                                         <div className="image">
-                                            <img src="/images/services-img1.png" alt="image" />
+                                            <img src="/images/imme/MockTestAssessement.png" alt="image" />
                                         </div>
 
                                         <div className="content">
-                                            <p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomized words which don't look even slightly believable. If you are going to use a passage.</p>
+                                            <p>IMME Australia develops the testing and assessment system which can accommodate the wide and diversify kinds of question types, especially the Mock Test of Online English Test such as PTE Academic, IELTS, TOEIC, APTIS…</p>
 
                                             <Link href="/service-details">
                                                 <a className="btn btn-primary">Read More</a>
@@ -141,11 +141,12 @@ export default class Services extends Component {
         
                                     <div id="tab5" className="tabs-item">
                                         <div className="image">
-                                            <img src="/images/services-img1.png" alt="image" />
+                                            <img src="/images/imme/Autonimation.png" alt="image" />
                                         </div>
 
                                         <div className="content">
-                                            <p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomized words which don't look even slightly believable. If you are going to use a passage.</p>
+                                            <p>IMME Australia’s Technical experts are here to assist many organizations, institutes, schools, and centres in conducting the front and back-end platform development. Upon applying our platform, the clients will be able to transform their business process to achieve a standardized way of teaching and learning.
+</p>
 
                                             <Link href="/service-details">
                                                 <a className="btn btn-primary">Read More</a>
@@ -155,12 +156,11 @@ export default class Services extends Component {
 
                                     <div id="tab6" className="tabs-item">
                                         <div className="image">
-                                            <img src="/images/services-img1.png" alt="image" />
+                                            <img src="/images/imme/BlendedLearning.png" alt="image" />
                                         </div>
 
                                         <div className="content">
-                                            <p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomized words which don't look even slightly believable. If you are going to use a passage.</p>
-
+                                            <p> IMME Australia is delighted to introduce the LEADER Platform that can be used to improve student outcomes and enhance professional performance of training and assessment across all education sectors. </p>
                                             <Link href="/service-details">
                                                 <a className="btn btn-primary">Read More</a>
                                             </Link>

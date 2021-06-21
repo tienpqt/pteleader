@@ -9,15 +9,16 @@ const MainBanner = () => {
                 <div className="row">
                     <div className="col-lg-6">
                         <div className="banner-content">
-                            <h1>World’s Leading AI & Machine Learning Company</h1>
-                            <p>ML today are able to supply needful of help, information, and positive experience of maintaining intimacy with customers. Eventually, chatbot ideas bring a pleasant experience of all these qualities into the conversation.</p>
+                            <h1>Learning Today  & Leading Tomorrow   </h1>
+                            <p>IMME Australia creates and maintains a range of high-quality solutions and services in Education and Technology. 
+</p>
 
                             <div className="btn-box">
                                 <Link href="/index-2/#">
-                                    <a className="btn btn-primary">Schedule a Demo</a>
+                                    <a className="btn btn-primary">Book an Appointment</a>
                                 </Link>
                                 <Link href="/index-2/#">
-                                    <a className="optional-btn">Get Started Free</a>
+                                    <a className="optional-btn">Contact Us</a>
                                 </Link>
                             </div>
                         </div>

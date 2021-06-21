@@ -117,7 +117,7 @@ class NavbarThree extends Component {
                                         <li className="nav-item">
                                             <Link href="/#">
                                                 <a className="nav-link" onClick={e => e.preventDefault()}>
-                                                    Pages <i className="fas fa-chevron-down"></i>
+                                                    Home <i className="fas fa-chevron-down"></i>
                                                 </a>
                                             </Link>
                                             
@@ -129,89 +129,42 @@ class NavbarThree extends Component {
                                                 </li>
                                                 <li className="nav-item">
                                                     <Link href="/about-two" activeClassName="active">
-                                                        <a className="nav-link">About Us Two</a>
+                                                        <a className="nav-link">Our Team</a>
                                                     </Link>
                                                 </li>
  
                                                 <li className="nav-item">
                                                     <Link href="/team" activeClassName="active">
-                                                        <a className="nav-link">Team</a>
+                                                        <a className="nav-link">Our Vision</a>
                                                     </Link>
                                                 </li>
-
-                                                <li className="nav-item">
-                                                    <Link href="/pricing" activeClassName="active">
-                                                        <a className="nav-link">Pricing</a>
-                                                    </Link>
-                                                </li>
- 
-                                                <li className="nav-item">
-                                                    <Link href="/feedback" activeClassName="active">
-                                                        <a className="nav-link">Feedback</a>
-                                                    </Link>
-                                                </li>
-  
-                                                <li className="nav-item">
-                                                    <Link href="/partner" activeClassName="active">
-                                                        <a className="nav-link">Partner</a>
-                                                    </Link>
-                                                </li>
-
-                                                <li className="nav-item">
-                                                    <Link href="/faq" activeClassName="active">
-                                                        <a className="nav-link">Faq</a>
-                                                    </Link>
-                                                </li>
-
-                                                <li className="nav-item">
-                                                    <Link href="/coming-soon" activeClassName="active">
-                                                        <a className="nav-link">Coming Soon</a>
-                                                    </Link>
-                                                </li>
-
-                                                <li className="nav-item">
-                                                    <Link href="/404" activeClassName="active">
-                                                        <a className="nav-link">404 Error</a>
-                                                    </Link>
-                                                </li>
-                                            </ul>
+                                          </ul>
                                         </li>
 
                                         <li className="nav-item">
                                             <Link href="/#" activeClassName="active">
                                                 <a className="nav-link" onClick={e => e.preventDefault()}>
-                                                    Services <i className="fas fa-chevron-down"></i>
+                                                    Our Services <i className="fas fa-chevron-down"></i>
                                                 </a>
                                             </Link>
 
                                             <ul className="dropdown-menu">
                                                 <li className="nav-item">
                                                     <Link href="/services" activeClassName="active">
-                                                        <a className="nav-link">Services Style One</a>
+                                                        <a className="nav-link">Education Support</a>
                                                     </Link>
                                                 </li>
                                                 <li className="nav-item">
                                                     <Link href="/services-two" activeClassName="active">
-                                                        <a className="nav-link">Services Style Two</a>
+                                                        <a className="nav-link">Student Welfare Support</a>
                                                     </Link>
                                                 </li>
                                                 <li className="nav-item">
                                                     <Link href="/services-three" activeClassName="active">
-                                                        <a className="nav-link">Services Style Three</a>
+                                                        <a className="nav-link"> Educational Platform</a>
                                                     </Link>
                                                 </li>
-                                                <li className="nav-item">
-                                                    <Link href="/services-four" activeClassName="active">
-                                                        <a className="nav-link">Services Style Four</a>
-                                                    </Link>
-                                                </li>
-                                                <li className="nav-item">
-                                                    <Link href="/service-details" activeClassName="active">
-                                                        <a className="nav-link">
-                                                            Service Details
-                                                        </a>
-                                                    </Link>
-                                                </li>
+                                              
                                             </ul>
                                         </li>
 

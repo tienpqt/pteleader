@@ -9,7 +9,7 @@ class MainBanner extends Component {
                     <div className="d-table-cell">
                         <div className="container-fluid">
                             <div className="main-banner-content">
-                                <h1>PTE Leader Training Platform </h1>
+                                <h1>PTE Leader   Training Platform </h1>
                                 <p>With a team of experienced professional PTE trainers, we can guide you step-by-step on how to improve your skills and achieve your desirable scores. We are proud to be one of the best online coaching platform in Australia and Vietnam.</p>
 
                                 <div className="btn-box">
@@ -18,7 +18,7 @@ class MainBanner extends Component {
                                     </Link>
 
                                     <Link href="/contact">
-                                        <a className="optional-btn">Free Test Level</a>
+                                        <a className="optional-btn">Book Entry Test</a>
                                     </Link>
                                 </div>
                             </div>

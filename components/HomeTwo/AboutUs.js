@@ -8,21 +8,22 @@ const AboutUs = () => {
                 <div className="row align-items-center">
                     <div className="col-lg-6 col-md-12">
                         <div className="about-img">
-                            <img src="/images/about/about3.png" alt="image" />
+                            <img src="/images/imme/HomePhoto2ok.png" alt="image" />
                         </div>
                     </div>
 
                     <div className="col-lg-6 col-md-12">
                         <div className="about-content">
-                            <h2>Engaging New Audiences through Smart Approach</h2>
-                            <p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage.</p>
+                            <h2>
+Let's Make Our Dream Come True Together</h2>
+                            <p>IMME Australia’s strategic objective is to support improved teacher, trainer, and student outcomes, enhanced the ways to deliver the lessons and assessments. </p>
 
                             <ul className="features-list">
-                                <li><span><i className="flaticon-tick"></i> Classification</span></li>
-                                <li><span><i className="flaticon-tick"></i> Examples</span></li>
-                                <li><span><i className="flaticon-tick"></i> Extensions</span></li>
-                                <li><span><i className="flaticon-tick"></i> Extraction</span></li>
-                                <li><span><i className="flaticon-tick"></i> Selection</span></li>
+                                <li><span><i className="flaticon-tick"></i> Achieving Excellence</span></li>
+                                <li><span><i className="flaticon-tick"></i> Happy Learning</span></li>
+                                <li><span><i className="flaticon-tick"></i> Multicultural Community</span></li>
+                                <li><span><i className="flaticon-tick"></i> Learn To Achieve</span></li>
+                                <li><span><i className="flaticon-tick"></i> Gather To Learn</span></li>
                             </ul>
 
                             <Link href="/about-two">

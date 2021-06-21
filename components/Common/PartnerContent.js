@@ -35,7 +35,6 @@ class PartnerContent extends Component {
                                 </a>
                             </Link>
                         </div>
-
                         <div className="partner-item">
                             <Link href="/#">
                                 <a target="_blank">
@@ -43,43 +42,10 @@ class PartnerContent extends Component {
                                 </a>
                             </Link>
                         </div>
-
                         <div className="partner-item">
                             <Link href="/#">
                                 <a target="_blank">
                                     <img src="/images/partner/partner5.png" alt="image" />
-                                </a>
-                            </Link>
-                        </div>
-
-                        <div className="partner-item">
-                            <Link href="/#">
-                                <a target="_blank">
-                                    <img src="/images/partner/partner6.png" alt="image" />
-                                </a>
-                            </Link>
-                        </div>
-
-                        <div className="partner-item">
-                            <Link href="/#">
-                                <a target="_blank">
-                                    <img src="/images/partner/partner1.png" alt="image" />
-                                </a>
-                            </Link>
-                        </div>
-
-                        <div className="partner-item">
-                            <Link href="/#">
-                                <a target="_blank">
-                                    <img src="/images/partner/partner2.png" alt="image" />
-                                </a>
-                            </Link>
-                        </div>
-
-                        <div className="partner-item">
-                            <Link href="/#">
-                                <a target="_blank">
-                                    <img src="/images/partner/partner3.png" alt="image" />
                                 </a>
                             </Link>
                         </div>

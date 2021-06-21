@@ -38,7 +38,7 @@ class PricingCard extends Component {
                                 className="current"
                                 onClick={(e) => this.openTabSection(e, 'tab1')}
                             >
-                                Monthly Plan
+                                Monthly Plan TOTOTO
                             </li>
 
                             <li

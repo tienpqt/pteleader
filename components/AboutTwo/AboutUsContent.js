@@ -14,34 +14,34 @@ const AboutUsContent = () => {
                     <div className="col-lg-6 col-md-12">
                         <div className="why-choose-us-content">
                             <h2>About Us</h2>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
-                            <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.</p>
+                            <p>IMME Australia is proudly to be one of the leading companies in providing the education support and technical solutions. We create and maintain a range of high-quality solutions and services in Education and Technology. </p>
+                            <p>IMME Australia provides:</p>
                             
                             <div className="row">
                                 <div className="col-lg-6 col-md-6 col-sm-6">
                                     <div className="single-why-choose-us-box">
-                                        <h3>Project Kickoff</h3>
+                                        <h3>Educational Consultant</h3>
                                         <p>Et dolore magna aliqua. Quis ipsum suspendisse ultrices gravida. Risus commodo viverra maecenas.</p>
                                     </div>
                                 </div>
 
                                 <div className="col-lg-6 col-md-6 col-sm-6">
                                     <div className="single-why-choose-us-box">
-                                        <h3>Ideation and Evaluation</h3>
+                                        <h3>Pre-Departure Orientation</h3>
                                         <p>Et dolore magna aliqua. Quis ipsum suspendisse ultrices gravida. Risus commodo viverra maecenas.</p>
                                     </div>
                                 </div>
 
                                 <div className="col-lg-6 col-md-6 col-sm-6">
                                     <div className="single-why-choose-us-box">
-                                        <h3>Design Process</h3>
+                                        <h3>Student welfare support</h3>
                                         <p>Et dolore magna aliqua. Quis ipsum suspendisse ultrices gravida. Risus commodo viverra maecenas.</p>
                                     </div>
                                 </div>
 
                                 <div className="col-lg-6 col-md-6 col-sm-6">
                                     <div className="single-why-choose-us-box">
-                                        <h3>Development Process</h3>
+                                        <h3>Online English Test Preparation</h3>
                                         <p>Et dolore magna aliqua. Quis ipsum suspendisse ultrices gravida. Risus commodo viverra maecenas.</p>
                                     </div>
                                 </div>

@@ -38,7 +38,7 @@ class Services extends Component {
                                         <a>Target Guaranted</a>
                                     </Link>
                                 </h3>
-                                <p>With Exceptional Tailored Learning Pathways and Outstanding Learning Materials, we are fully prepared to help you reach your goals.</p>
+                                <p>With Exceptional Tailored Learning Pathways, we are fully prepared to help you reach your goals.</p>
                             </div>
                         </div>
 

@@ -42,22 +42,22 @@ class FeedbackSlider extends Component {
                         <div className="row m-0">
                             <div className="col-lg-6 col-md-12 p-0">
                                 <div className="feedback-item">
-                                    <p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour predefined words which don't look.</p>
-
+                                    <p>Over the past few years, I have worked tirelessly to concrete my dream of creating and developing professional PTE training team.
+                                        </p>
                                     <div className="client-info">
                                         <div className="client-pic">
-                                            <img src="/images/clients/client1.jpg" alt="image" />
+                                            <img src="/images/clients/trinh.jpg" alt="image" />
                                         </div>
 
-                                        <h3>Filip Luis</h3>
-                                        <span>Founder & CEO</span>
+                                        <h3>Brian NGUYEN</h3>
+                                        <span>Co-Founder/Quality Manager</span>
                                     </div>
                                 </div>
                             </div>
                             
                             <div className="col-lg-6 col-md-12 p-0">
                                 <div className="client-image bg1">
-                                    <img src="/images/clients/client1.jpg" alt="image" />
+                                    <img src="/images/clients/trinh.jpg" alt="image" />
                                 </div>
                             </div>
                         </div>
@@ -65,16 +65,18 @@ class FeedbackSlider extends Component {
                         <div className="row m-0">
                             <div className="col-lg-6 col-md-12 p-0">
                                 <div className="feedback-item">
-                                    <p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour predefined words which don't look.</p>
-
+                                    <p>My educational strategies strive to establish a safe classroom environment based on mutual respect and a common goal of achieving excellence in learning. 
+                                        </p>
                                     <div className="client-info">
                                         <div className="client-pic">
                                             <img src="/images/clients/client2.jpg" alt="image" />
                                         </div>
 
-                                        <h3>Sarah Taylor</h3>
-                                        <span>Designer</span>
-                                    </div>
+                                        <h3>Noshin Tabassum</h3>
+                                        <span>PTE Trainer/ Team Leader
+
+
+</span>                                    </div>
                                 </div>
                             </div>
                             

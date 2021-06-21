@@ -6,8 +6,8 @@ const OurFeaturedSolutions = () => {
         <div className="featured-solutions-area ptb-110">
             <div className="container">
                 <div className="section-title">
-                    <h2>Our Featured Solutions</h2>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+                    <h2>Our Services</h2>
+                    <p>IMME Australia commits to our clients to deliver high and consistent levels of educational services and comply with professional standards. Putting the needs and success of our clients as the first priority, we dedicatedly offer</p>
                 </div>
 
                 <div className="row">
@@ -18,10 +18,11 @@ const OurFeaturedSolutions = () => {
                             </div>
                             <h3>
                                 <Link href="/index-2/#">
-                                    <a>Robotic Automation</a>
+                                    <a>Education Support</a>
                                 </Link>
                             </h3>
-                            <p>Lorem ipsum dolor consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore. Ut enim ad minim veniam.</p>
+                            <p>IMME Australia is confident to provide client the best educational services based on our deep knowledge, professional experience and wide network with Australian and New Zealand universities and schools. IMME Australia is proudly to be one of the qualified Education Agents in Australia.
+</p>
                             <Link href="/index-2/#">
                                 <a className="learn-more-btn">Read More</a>
                             </Link>
@@ -35,10 +36,11 @@ const OurFeaturedSolutions = () => {
                             </div>
                             <h3>
                                 <Link href="/index-2/#">
-                                    <a>Machine Learning</a>
+                                    <a>Student Welfare Support</a>
                                 </Link>
                             </h3>
-                            <p>Lorem ipsum dolor consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore. Ut enim ad minim veniam.</p>
+                            <p>With an aim of helping our clients to achieve the best outcomes and integrate to the new life, our professional and friendly team are here to assist you. Comprehensive pre and post arrival orientation program to help our clients have the opportunity to learn and understand all the things relating to living and studying in a new country.
+</p>
                             <Link href="/index-2/#">
                                 <a className="learn-more-btn">Read More</a>
                             </Link>
@@ -52,10 +54,11 @@ const OurFeaturedSolutions = () => {
                             </div>
                             <h3>
                                 <Link href="/index-2/#">
-                                    <a>Cognitive Engagement</a>
+                                    <a>Educational Platform</a>
                                 </Link>
                             </h3>
-                            <p>Lorem ipsum dolor consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore. Ut enim ad minim veniam.</p>
+                            <p>We use our unique smart combination of education and technology expertise to create and deliver high quality solutions in teaching and training. We are delighted to introduce the LEADER Platform that can be used to improve student outcomes and enhance professional performance of training and assessment across all education sectors. 
+</p>
                             <Link href="/index-2/#">
                                 <a className="learn-more-btn">Read More</a>
                             </Link>
