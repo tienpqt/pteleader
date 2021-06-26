@@ -28,8 +28,9 @@ export default class Services extends Component {
             <div className="services-section bg-f2f6f9 ptb-110">
                 <div className="container">
                     <div className="section-title">
-                        <h2>We Offer Professional Solutions</h2>
-                        <p>IMME Australia is proudly to be one of the leading companies in providing the education support and technical solutions. We create and maintain a range of high-quality solutions and services in Education and Technology. </p>
+                        <h2> We offer educational support and professional technical solutions
+</h2>
+                        <p>Our qualified professional counsellors and Technology expert will always be available to assist you to choose the right place, economic package in relevant with your background, interests, and financial capacity.</p>
                     </div>
 
                     <div className="tab services-tab-list">
@@ -41,42 +42,46 @@ export default class Services extends Component {
                                         onClick={(e) => this.openTabSection(e, 'tab1')}
                                     >
                                         <i className="flaticon-income"></i>
-                                        <span>Educational Consultant</span>
+                                        <span>STUDY ABROAD </span>
                                     </li>
-                                    
+
                                     <li
                                         onClick={(e) => this.openTabSection(e, 'tab2')}
                                     >
                                         <i className="flaticon-automatic"></i>
-                                        <span>Pre-Departure Orientation</span>
+                                        <span>WELFARE SUPORT </span>
                                     </li>
-                                    
+
                                     <li
                                         onClick={(e) => this.openTabSection(e, 'tab3')}
                                     >
                                         <i className="flaticon-locked"></i>
-                                        <span>Student welfare support</span>
+                                        <span>
+                                            TRAINING PLATFORM    </span>
                                     </li>
-                                    
+
                                     <li
                                         onClick={(e) => this.openTabSection(e, 'tab4')}
                                     >
                                         <i className="flaticon-molecular"></i>
-                                        <span>Online English Test Preparation</span>
+                                        <span>
+                                            MOCK TEST/ ASSESSMENT</span>
                                     </li>
-                                    
+
                                     <li
                                         onClick={(e) => this.openTabSection(e, 'tab5')}
                                     >
                                         <i className="flaticon-gear"></i>
-                                    <span>DevOps Assessment Systems</span>
+                                        <span>
+                                            DIGITAL LEARNING RESOURCES	</span>
                                     </li>
-                                    
+
                                     <li
                                         onClick={(e) => this.openTabSection(e, 'tab6')}
                                     >
                                         <i className="flaticon-ceo"></i>
-                                        <span>E-Learning & Blended Learning</span>
+                                        <span>
+                                            AUTOMATION OPTIMIZATION	</span>
                                     </li>
                                 </ul>
                             </div>
@@ -110,7 +115,7 @@ export default class Services extends Component {
                                             </Link>
                                         </div>
                                     </div>
-        
+
                                     <div id="tab3" className="tabs-item">
                                         <div className="image">
                                             <img src="/images/imme/Welfare.png" alt="image" />
@@ -124,7 +129,7 @@ export default class Services extends Component {
                                             </Link>
                                         </div>
                                     </div>
-        
+
                                     <div id="tab4" className="tabs-item">
                                         <div className="image">
                                             <img src="/images/imme/MockTestAssessement.png" alt="image" />
@@ -138,7 +143,7 @@ export default class Services extends Component {
                                             </Link>
                                         </div>
                                     </div>
-        
+
                                     <div id="tab5" className="tabs-item">
                                         <div className="image">
                                             <img src="/images/imme/Autonimation.png" alt="image" />

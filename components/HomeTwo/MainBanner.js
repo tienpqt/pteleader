@@ -9,7 +9,8 @@ const MainBanner = () => {
                 <div className="row">
                     <div className="col-lg-6">
                         <div className="banner-content">
-                            <h1>Learning Today  & Leading Tomorrow   </h1>
+                            <h1>Learning Today</h1>
+                            <h1>      <span> 	&nbsp;	&nbsp;	&nbsp;   </span>  Leading Tomorrow   </h1>
                             <p>IMME Australia creates and maintains a range of high-quality solutions and services in Education and Technology. 
 </p>
 
