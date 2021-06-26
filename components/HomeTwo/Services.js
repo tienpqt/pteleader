@@ -90,7 +90,7 @@ export default class Services extends Component {
                                 <div className="tab-content">
                                     <div id="tab1" className="tabs-item">
                                         <div className="image">
-                                            <img src="/images/imme/DigitalLearning.png" alt="image" />
+                                            <img src="/images/imme/StudyAbroad.png" alt="image" />
                                         </div>
 
                                         <div className="content">
@@ -104,7 +104,7 @@ export default class Services extends Component {
 
                                     <div id="tab2" className="tabs-item">
                                         <div className="image">
-                                            <img src="/images/imme/StudyAbroad.png" alt="image" />
+                                            <img src="/images/imme/Welfare.png" alt="image" />
                                         </div>
 
                                         <div className="content">
@@ -118,7 +118,7 @@ export default class Services extends Component {
 
                                     <div id="tab3" className="tabs-item">
                                         <div className="image">
-                                            <img src="/images/imme/Welfare.png" alt="image" />
+                                            <img src="/images/imme/TrainingPlatform.png" alt="image" />
                                         </div>
 
                                         <div className="content">
@@ -146,7 +146,7 @@ export default class Services extends Component {
 
                                     <div id="tab5" className="tabs-item">
                                         <div className="image">
-                                            <img src="/images/imme/Autonimation.png" alt="image" />
+                                            <img src="/images/imme/DigitalLearning.png" alt="image" />
                                         </div>
 
                                         <div className="content">
@@ -160,7 +160,7 @@ export default class Services extends Component {
 
                                     <div id="tab6" className="tabs-item">
                                         <div className="image">
-                                            <img src="/images/imme/BlendedLearning.png" alt="image" />
+                                            <img src="/images/imme/Autonimation.png" alt="image" />
                                         </div>
 
                                         <div className="content">

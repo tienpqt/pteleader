@@ -347,21 +347,17 @@ class TeamContent extends Component {
                                     <img src="/images/imme/team/8.png" alt="Team Image" />
 
                                     <div className="social">
-                                        <Link href="/team/#">
+                                        <Link href="https://www.facebook.com/Lenny12">
                                             <a target="_blank">
                                                 <i className="fab fa-facebook-f"></i>
                                             </a>
                                         </Link>
 
-                                        <Link href="/team/#">
-                                            <a target="_blank">
-                                                <i className="fab fa-twitter"></i>
-                                            </a>
-                                        </Link>
+                                       
 
-                                        <Link href="/team/#">
+                                        <Link href="https://www.linkedin.com/in/pham-phuong-phi-890b4a2a/">
                                             <a target="_blank">
-                                                <i className="fab fa-instagram"></i>
+                                                <i className="fab fa-linkedin"></i>
                                             </a>
                                         </Link>
                                     </div>
@@ -381,21 +377,17 @@ class TeamContent extends Component {
                                     <img src="/images/imme/team/7.png" alt="Team Image" />
 
                                     <div className="social">
-                                        <Link href="/team/#">
+                                        <Link href="https://www.facebook.com/naiiu/">
                                             <a target="_blank">
                                                 <i className="fab fa-facebook-f"></i>
                                             </a>
                                         </Link>
 
-                                        <Link href="/team/#">
-                                            <a target="_blank">
-                                                <i className="fab fa-twitter"></i>
-                                            </a>
-                                        </Link>
+                                      
 
-                                        <Link href="/team/#">
+                                        <Link href="https://www.linkedin.com/in/jessica-phan-8b396317/">
                                             <a target="_blank">
-                                                <i className="fab fa-instagram"></i>
+                                                <i className="fab fa-linkedin"></i>
                                             </a>
                                         </Link>
                                     </div>
