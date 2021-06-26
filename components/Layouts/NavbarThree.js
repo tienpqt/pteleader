@@ -80,23 +80,24 @@ class NavbarThree extends Component {
                                        <li className="nav-item">
                                             <Link href="/#" activeClassName="active">
                                                 <a className="nav-link" onClick={e => e.preventDefault()}>
-                                                    Home <i className="fas fa-chevron-down"></i>
+                                                     <i className="fas fa-caret-right"></i>
                                                 </a>
                                             </Link>
 
                                             <ul className="dropdown-menu">
                                                 <li className="nav-item">
                                                     <Link href="/" activeClassName="active">
-                                                        <a className="nav-link">Home Demo - 1</a>
+                                                        <a className="nav-link">IMME</a>
                                                     </Link>
                                                 </li>
 
                                                 <li className="nav-item">
                                                     <Link href="/index-2" activeClassName="active">
-                                                        <a className="nav-link">Home Demo - 2</a>
+                                                        <a className="nav-link">PTE Leader</a>
                                                     </Link>
                                                 </li>
-                                                
+                                             {/*   
+
                                                 <li className="nav-item">
                                                     <Link href="/index-3" activeClassName="active">
                                                         <a className="nav-link">Home Demo - 3</a>
@@ -114,6 +115,10 @@ class NavbarThree extends Component {
                                                         <a className="nav-link">Home Demo - 5</a>
                                                     </Link>
                                                 </li>
+                                          
+                                          
+                                           
+                                           */}
                                             </ul>
                                         </li>
     
@@ -128,12 +133,12 @@ class NavbarThree extends Component {
                                             
                                             <ul className="dropdown-menu">
                                                 <li className="nav-item">
-                                                    <Link href="/about" activeClassName="active">
+                                                    <Link href="/about-two" activeClassName="active">
                                                         <a className="nav-link">About Us</a>
                                                     </Link>
                                                 </li>
                                                 <li className="nav-item">
-                                                    <Link href="/about-two" activeClassName="active">
+                                                    <Link href="/team" activeClassName="active">
                                                         <a className="nav-link">Our Team</a>
                                                     </Link>
                                                 </li>
@@ -176,20 +181,30 @@ class NavbarThree extends Component {
                                         <li className="nav-item">
                                             <Link href="/#">
                                                 <a className="nav-link" onClick={e => e.preventDefault()}>
-                                                    Projects <i className="fas fa-chevron-down"></i>
+                                                Leader Platform<i className="fas fa-chevron-down"></i>
                                                 </a>
                                             </Link>
 
                                             <ul className="dropdown-menu">
                                                 <li className="nav-item">
                                                     <Link href="/projects" activeClassName="active">
-                                                        <a className="nav-link">Projects</a>
+                                                        <a className="nav-link">How it works</a>
                                                     </Link>
                                                 </li>
   
                                                 <li className="nav-item">
                                                     <Link href="/projects-details" activeClassName="active">
-                                                        <a className="nav-link">Projects Details</a>
+                                                        <a className="nav-link">Pricing</a>
+                                                    </Link>
+                                                </li>
+                                                <li className="nav-item">
+                                                    <Link href="/projects-details" activeClassName="active">
+                                                        <a className="nav-link">Partners</a>
+                                                    </Link>
+                                                </li>
+                                                <li className="nav-item">
+                                                    <Link href="/projects-details" activeClassName="active">
+                                                        <a className="nav-link">Feedback</a>
                                                     </Link>
                                                 </li>
                                             </ul>
@@ -198,7 +213,35 @@ class NavbarThree extends Component {
                                         <li className="nav-item">
                                             <Link href="/#">
                                                 <a className="nav-link" onClick={e => e.preventDefault()}>
-                                                    Shop <i className="fas fa-chevron-down"></i>
+                                                    News <i className="fas fa-chevron-down"></i>
+                                                </a>
+                                            </Link>
+
+                                            <ul className="dropdown-menu">
+                                                <li className="nav-item">
+                                                    <Link href="/blog" activeClassName="active">
+                                                        <a className="nav-link">Break News</a>
+                                                    </Link>
+                                                </li>
+
+                                                <li className="nav-item">
+                                                    <Link href="/blog2" activeClassName="active">
+                                                        <a className="nav-link">Blog</a>
+                                                    </Link>
+                                                </li>
+
+                                                <li className="nav-item">
+                                                    <Link href="/blog-details" activeClassName="active">
+                                                        <a className="nav-link">Blog Details</a>
+                                                    </Link>
+                                                </li>
+                                            </ul>
+                                        </li>
+  
+                                        <li className="nav-item">
+                                            <Link href="/#">
+                                                <a className="nav-link" onClick={e => e.preventDefault()}>
+                                                    Cart <i className="fas fa-chevron-down"></i>
                                                 </a>
                                             </Link>
 
@@ -224,34 +267,6 @@ class NavbarThree extends Component {
                                                 <li className="nav-item">
                                                     <Link href="/checkout" activeClassName="active">
                                                         <a className="nav-link">Checkout</a>
-                                                    </Link>
-                                                </li>
-                                            </ul>
-                                        </li>
-  
-                                        <li className="nav-item">
-                                            <Link href="/#">
-                                                <a className="nav-link" onClick={e => e.preventDefault()}>
-                                                    Blog <i className="fas fa-chevron-down"></i>
-                                                </a>
-                                            </Link>
-
-                                            <ul className="dropdown-menu">
-                                                <li className="nav-item">
-                                                    <Link href="/blog" activeClassName="active">
-                                                        <a className="nav-link">Blog Grid</a>
-                                                    </Link>
-                                                </li>
-
-                                                <li className="nav-item">
-                                                    <Link href="/blog2" activeClassName="active">
-                                                        <a className="nav-link">Blog Right Sidebar</a>
-                                                    </Link>
-                                                </li>
-
-                                                <li className="nav-item">
-                                                    <Link href="/blog-details" activeClassName="active">
-                                                        <a className="nav-link">Blog Details</a>
                                                     </Link>
                                                 </li>
                                             </ul>
@@ -304,7 +319,7 @@ class NavbarThree extends Component {
                                         </div>
                                                 
                                         <Link href="/contact">
-                                            <a className="btn btn-primary">Schedule a Demo</a>
+                                            <a className="btn btn-primary">Book an Appointment</a>
                                         </Link>
                                     </div>
                                 </div>

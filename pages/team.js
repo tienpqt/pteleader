@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import NavbarTwo from '../components/Layouts/NavbarTwo';
+import NavbarTwo from '../components/Layouts/NavbarThree';
 import PageBanner from '../components/Common/PageBanner';
 import TeamContent from '../components/Team/TeamContent';
 import FreeTrialForm from '../components/Common/FreeTrialForm';

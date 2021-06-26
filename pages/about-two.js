@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import NavbarTwo from '../components/Layouts/NavbarTwo';
+import NavbarTwo from '../components/Layouts/NavbarThree';
 import PageBanner from '../components/Common/PageBanner';
 import AboutUsContent from '../components/AboutTwo/AboutUsContent';
 import ProfessionalSolutions from '../components/HomeFive/ProfessionalSolutions';
@@ -18,7 +18,7 @@ class AboutTwo extends Component {
                     homePageUrl="/" 
                     homePageText="Home" 
                     activePageText="About Us" 
-                    bgImgClass="item-bg2" 
+                    bgImgClass="item-bg1" 
                 />  
                 <AboutUsContent />
                 <ProfessionalSolutions />
