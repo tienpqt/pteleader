@@ -10,7 +10,7 @@ class TeamContent extends Component {
                         <div className="col-lg-4 col-sm-6">
                             <div className="single-team-box">
                                 <div className="image">
-                                    <img src="/images/team/team1.jpg" alt="Team Image" />
+                                    <img src="/images/imme/team/6.png" alt="Team Image" />
 
                                     <div className="social">
                                         <Link href="/team/#">
@@ -43,7 +43,7 @@ class TeamContent extends Component {
                         <div className="col-lg-4 col-sm-6">
                             <div className="single-team-box">
                                 <div className="image">
-                                    <img src="/images/team/team2.jpg" alt="Team Image" />
+                                    <img src="/images/imme/team/5.png" alt="Team Image" />
 
                                     <div className="social">
                                         <Link href="/team/#">
@@ -76,7 +76,7 @@ class TeamContent extends Component {
                         <div className="col-lg-4 col-sm-6">
                             <div className="single-team-box">
                                 <div className="image">
-                                    <img src="/images/team/team3.jpg" alt="Team Image" />
+                                    <img src="/images/imme/team/4.png" alt="Team Image" />
 
                                     <div className="social">
                                         <Link href="/team/#">
@@ -110,7 +110,7 @@ class TeamContent extends Component {
                         <div className="col-lg-4 col-sm-6">
                             <div className="single-team-box">
                                 <div className="image">
-                                    <img src="/images/team/team4.jpg" alt="Team Image" />
+                                    <img src="/images/imme/team/9.png" alt="Team Image" />
 
                                     <div className="social">
                                         <Link href="/team/#">
@@ -143,7 +143,7 @@ class TeamContent extends Component {
                         <div className="col-lg-4 col-sm-6">
                             <div className="single-team-box">
                                 <div className="image">
-                                    <img src="/images/team/team5.jpg" alt="Team Image" />
+                                    <img src="/images/imme/team/3.png" alt="Team Image" />
 
                                     <div className="social">
                                         <Link href="/team/#">
@@ -177,7 +177,7 @@ class TeamContent extends Component {
                         <div className="col-lg-4 col-sm-6">
                             <div className="single-team-box">
                                 <div className="image">
-                                    <img src="/images/team/team6.jpg" alt="Team Image" />
+                                    <img src="/images/imme/team/1.png" alt="Team Image" />
 
                                     <div className="social">
                                         <Link href="/team/#">
@@ -210,7 +210,7 @@ class TeamContent extends Component {
                         <div className="col-lg-4 col-sm-6">
                             <div className="single-team-box">
                                 <div className="image">
-                                    <img src="/images/team/team7.jpg" alt="Team Image" />
+                                    <img src="/images/imme/team/2.png" alt="Team Image" />
 
                                     <div className="social">
                                         <Link href="/team/#">
@@ -243,7 +243,7 @@ class TeamContent extends Component {
                         <div className="col-lg-4 col-sm-6">
                             <div className="single-team-box">
                                 <div className="image">
-                                    <img src="/images/team/team8.jpg" alt="Team Image" />
+                                    <img src="/images/imme/team/10.png" alt="Team Image" />
 
                                     <div className="social">
                                         <Link href="/team/#">
@@ -277,7 +277,7 @@ class TeamContent extends Component {
                         <div className="col-lg-4 col-sm-6">
                             <div className="single-team-box">
                                 <div className="image">
-                                    <img src="/images/team/team9.jpg" alt="Team Image" />
+                                    <img src="/images/imme/team/11.png" alt="Team Image" />
 
                                     <div className="social">
                                         <Link href="/team/#">
@@ -310,7 +310,7 @@ class TeamContent extends Component {
                         <div className="col-lg-4 col-sm-6">
                             <div className="single-team-box">
                                 <div className="image">
-                                    <img src="/images/team/team9.jpg" alt="Team Image" />
+                                    <img src="/images/imme/team/12.png" alt="Team Image" />
 
                                     <div className="social">
                                         <Link href="/team/#">
@@ -334,8 +334,8 @@ class TeamContent extends Component {
                                 </div>
 
                                 <div className="content">
-                                    <h3>Thang Phan </h3>
-                                    <span>Asian Regional Director
+                                    <h3>Tien Phan </h3>
+                                    <span>Technical Expert
 </span>
                                 </div>
                             </div>
@@ -344,7 +344,7 @@ class TeamContent extends Component {
                         <div className="col-lg-4 col-sm-6">
                             <div className="single-team-box">
                                 <div className="image">
-                                    <img src="/images/team/team9.jpg" alt="Team Image" />
+                                    <img src="/images/imme/team/8.png" alt="Team Image" />
 
                                     <div className="social">
                                         <Link href="/team/#">
@@ -368,8 +368,8 @@ class TeamContent extends Component {
                                 </div>
 
                                 <div className="content">
-                                    <h3>Thang Phan </h3>
-                                    <span>Asian Regional Director
+                                    <h3>Phi Pham </h3>
+                                    <span>Technical Expert
 </span>
                                 </div>
                             </div>
@@ -378,7 +378,7 @@ class TeamContent extends Component {
                         <div className="col-lg-4 col-sm-6">
                             <div className="single-team-box">
                                 <div className="image">
-                                    <img src="/images/team/team9.jpg" alt="Team Image" />
+                                    <img src="/images/imme/team/7.png" alt="Team Image" />
 
                                     <div className="social">
                                         <Link href="/team/#">
@@ -402,8 +402,8 @@ class TeamContent extends Component {
                                 </div>
 
                                 <div className="content">
-                                    <h3>Thang Phan </h3>
-                                    <span>Asian Regional Director
+                                    <h3>Jessica Phan </h3>
+                                    <span>CEO
 </span>
                                 </div>
                             </div>

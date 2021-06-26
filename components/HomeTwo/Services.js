@@ -94,7 +94,7 @@ export default class Services extends Component {
                                         </div>
 
                                         <div className="content">
-                                            <p>With an aim of helping our teacher, trainer, and students to achieve the targeted educational outcomes, IMME Australia has successfully built a wide range of study material with the highest standard that suit many levels of studying. Learning should be accessible to anyone from anywhere in the world at any time.</p>
+                                            <p>IMME Australia aims to personalize the application, provide the most accurate up to date information, consult the most efficient and economical solution to clients in accordance with relevant laws and regulation.</p>
 
                                             <Link href="/service-details">
                                                 <a className="btn btn-primary">Read More</a>
@@ -108,7 +108,7 @@ export default class Services extends Component {
                                         </div>
 
                                         <div className="content">
-                                            <p>IMME Australia aims to personalize the application, provide the most accurate up to date information, consult the most efficient and economical solution to clients in accordance with relevant laws and regulation.</p>
+                                            <p>IMME Australia takes pride to support our students with emotional, financial, and social difficulties on the journey to make the dream comes true. We partner and work closely with School’s Welfare Support Worker to make sure our students to be secure, happy, and looked after while living and studying in Australia.</p>
 
                                             <Link href="/service-details">
                                                 <a className="btn btn-primary">Read More</a>
@@ -122,7 +122,7 @@ export default class Services extends Component {
                                         </div>
 
                                         <div className="content">
-                                            <p>IMME Australia takes pride to support our students with emotional, financial, and social difficulties on the journey to make the dream comes true. We partner and work closely with School’s Welfare Support Worker to make sure our students to be secure, happy, and looked after while living and studying in Australia.</p>
+                                            <p>IMME Australia is delighted to introduce the LEADER Platform that can be used to improve student outcomes and enhance professional performance of training and assessment across all education sectors. </p>
 
                                             <Link href="/service-details">
                                                 <a className="btn btn-primary">Read More</a>
@@ -150,8 +150,7 @@ export default class Services extends Component {
                                         </div>
 
                                         <div className="content">
-                                            <p>IMME Australia’s Technical experts are here to assist many organizations, institutes, schools, and centres in conducting the front and back-end platform development. Upon applying our platform, the clients will be able to transform their business process to achieve a standardized way of teaching and learning.
-</p>
+                                            <p>With an aim of helping our teacher, trainer, and students to achieve the targeted educational outcomes, IMME Australia has successfully built a wide range of study material with the highest standard that suit many levels of studying. Learning should be accessible to anyone from anywhere in the world at any time.</p>
 
                                             <Link href="/service-details">
                                                 <a className="btn btn-primary">Read More</a>
@@ -165,7 +164,7 @@ export default class Services extends Component {
                                         </div>
 
                                         <div className="content">
-                                            <p> IMME Australia is delighted to introduce the LEADER Platform that can be used to improve student outcomes and enhance professional performance of training and assessment across all education sectors. </p>
+                                            <p>  IMME Australia’s Technical experts are here to assist many organizations, institutes, schools, and centres in conducting the front and back-end platform development. Upon applying our platform, the clients will be able to transform their business process to achieve a standardized way of teaching and learning.</p>
                                             <Link href="/service-details">
                                                 <a className="btn btn-primary">Read More</a>
                                             </Link>
