@@ -13,14 +13,14 @@ const FreeTrialArea = () => {
 
                     <div className="col-lg-6 col-md-12">
                         <div className="free-trial-text">
-                            <h2>Start your free trial</h2>
+                            <h2>Start your free entry test</h2>
 
                             <form className="newsletter-form">
-                                <input type="email" className="input-newsletter" placeholder="Enter your business email here" />
-                                <button type="submit">Sign Up Free</button>
+                                <input type="email" className="input-newsletter" placeholder="Enter your  email here" />
+                                <button type="submit">Book your place</button>
                             </form>
 
-                            <p>Test out the Machine Learning features for 14 days, no credit card required.</p>
+                            <p>Test out the PTE Leader Platform features for 14 days.</p>
                         </div>
                     </div>
                 </div>

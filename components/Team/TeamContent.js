@@ -310,32 +310,28 @@ class TeamContent extends Component {
                         <div className="col-lg-4 col-sm-6">
                             <div className="single-team-box">
                                 <div className="image">
-                                    <img src="/images/imme/team/12.png" alt="Team Image" />
+                                    <img src="/images/imme/team/7.png" alt="Team Image" />
 
                                     <div className="social">
-                                        <Link href="/team/#">
+                                        <Link href="https://www.facebook.com/naiiu/">
                                             <a target="_blank">
                                                 <i className="fab fa-facebook-f"></i>
                                             </a>
                                         </Link>
 
-                                        <Link href="/team/#">
-                                            <a target="_blank">
-                                                <i className="fab fa-twitter"></i>
-                                            </a>
-                                        </Link>
+                                      
 
-                                        <Link href="/team/#">
+                                        <Link href="https://www.linkedin.com/in/jessica-phan-8b396317/">
                                             <a target="_blank">
-                                                <i className="fab fa-instagram"></i>
+                                                <i className="fab fa-linkedin"></i>
                                             </a>
                                         </Link>
                                     </div>
                                 </div>
 
                                 <div className="content">
-                                    <h3>Tien Phan </h3>
-                                    <span>Technical Expert
+                                    <h3>Jessica Phan </h3>
+                                    <span>CEO
 </span>
                                 </div>
                             </div>
@@ -371,31 +367,36 @@ class TeamContent extends Component {
                             </div>
                         </div>
 
+ 
                         <div className="col-lg-4 col-sm-6">
                             <div className="single-team-box">
                                 <div className="image">
-                                    <img src="/images/imme/team/7.png" alt="Team Image" />
+                                    <img src="/images/imme/team/joinus2.jpeg" alt="Team Image" />
 
                                     <div className="social">
-                                        <Link href="https://www.facebook.com/naiiu/">
+                                        <Link href="/team/#">
                                             <a target="_blank">
                                                 <i className="fab fa-facebook-f"></i>
                                             </a>
                                         </Link>
 
-                                      
-
-                                        <Link href="https://www.linkedin.com/in/jessica-phan-8b396317/">
+                                        <Link href="/team/#">
                                             <a target="_blank">
-                                                <i className="fab fa-linkedin"></i>
+                                                <i className="fab fa-twitter"></i>
+                                            </a>
+                                        </Link>
+
+                                        <Link href="/team/#">
+                                            <a target="_blank">
+                                                <i className="fab fa-instagram"></i>
                                             </a>
                                         </Link>
                                     </div>
                                 </div>
 
                                 <div className="content">
-                                    <h3>Jessica Phan </h3>
-                                    <span>CEO
+                                    <h3>We are recruiting.. </h3>
+                                    <span> Send your application here
 </span>
                                 </div>
                             </div>

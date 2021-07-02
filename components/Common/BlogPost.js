@@ -17,7 +17,7 @@ class BlogPost extends Component {
                                 <div className="entry-thumbnail">
                                     <Link href="/blog-details">
                                         <a>
-                                            <img src="/images/blog/blog1.jpg" alt="image" />
+                                            <img src="/images/blog/imme/1.jpeg" alt="image" />
                                         </a>
                                     </Link>
                                 </div>
@@ -30,17 +30,17 @@ class BlogPost extends Component {
                                                     <a>Admin</a>
                                                 </Link>
                                             </li>
-                                            <li>March 10, 2020</li>
+                                            <li>June 30, 2021</li>
                                         </ul>
                                     </div>
 
                                     <h3>
                                         <Link href="/blog-details">
-                                            <a>Making Peace With The Feast Or Famine Of Freelancing</a>
+                                            <a>Preparing PTE 30 for the Visa 462</a>
                                         </Link>
                                     </h3>
 
-                                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod...</p>
+                                    <p>If you tend to go to Australia with the Visa 462 for work or holiday but your English is not very good, this course is for you. The target of this course is to get PTE 30 ...</p>
                                     
                                     <Link href="/blog-details">
                                         <a className="learn-more-btn">
@@ -56,7 +56,7 @@ class BlogPost extends Component {
                                 <div className="entry-thumbnail">
                                     <Link href="/blog-details">
                                         <a>
-                                            <img src="/images/blog/blog2.jpg" alt="image" />
+                                            <img src="/images/blog/imme/2.jpeg" alt="image" />
                                         </a>
                                     </Link>
                                 </div>
@@ -69,16 +69,16 @@ class BlogPost extends Component {
                                                     <a>Admin</a>
                                                 </Link>
                                             </li>
-                                            <li>March 11, 2020</li>
+                                            <li>June 30, 2021</li>
                                         </ul>
                                     </div>
 
                                     <h3>
                                         <Link href="/blog-details">
-                                            <a>I Used The Web For A Day On A 50 MB Budget</a>
+                                            <a>Get PTE 50 for the Visa 485</a>
                                         </Link>
                                     </h3>
-                                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod...</p>
+                                    <p>Your English is not bad but you don't use it for a while and you don't have many free time to review, join this course at anytime that you want to get a PTE 50...</p>
                                     
                                     <Link href="/blog-details">
                                         <a className="learn-more-btn">
@@ -94,7 +94,7 @@ class BlogPost extends Component {
                                 <div className="entry-thumbnail">
                                     <Link href="/blog-details">
                                         <a>
-                                            <img src="/images/blog/blog3.jpg" alt="image" />
+                                            <img src="/images/blog/imme/3.jpeg" alt="image" />
                                         </a>
                                     </Link>
                                 </div>
@@ -107,16 +107,16 @@ class BlogPost extends Component {
                                                     <a>Admin</a>
                                                 </Link>
                                             </li>
-                                            <li>March 12, 2020</li>
+                                            <li>June 30, 2020</li>
                                         </ul>
                                     </div>
 
                                     <h3>
                                         <Link href="/blog-details">
-                                            <a>Here are the 5 most telling signs of micromanagement</a>
+                                            <a>The first step to study abroad is having a PTE 50+ or 60+</a>
                                         </Link>
                                     </h3>
-                                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod...</p>
+                                    <p>When your PTE score is 50+ or 60+, a big gate to thousands of schools, univerities and organizations across the world is waiting for you ...</p>
                                     
                                     <Link href="/blog-details">
                                         <a className="learn-more-btn">

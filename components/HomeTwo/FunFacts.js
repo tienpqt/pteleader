@@ -6,35 +6,35 @@ const FunFacts = () => {
         <div className="fun-facts-area ptb-110">
             <div className="container">
                 <div className="section-title">
-                    <h2>We completed 2500+ Projects Yearly Successfully & counting</h2>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+                    <h2>We have 5000+ Study Materials Downloadable </h2>
+                    <p>We take pride in being one of the best online coaching platforms located in Australia and Vietnam because we want to give everyone easy access to learning.</p>
                 </div>
 
                 <div className="row">
                     <div className="col-lg-3 col-6 col-sm-3 col-md-3">
                         <div className="single-funfacts">
                             <h3>5000 <span className="sign-icon">+</span></h3>
-                            <p>Downloaded</p>
+                            <p>Study Materials</p>
                         </div>
                     </div>
 
                     <div className="col-lg-3 col-6 col-sm-3 col-md-3">
                         <div className="single-funfacts">
-                            <h3>3000 <span className="sign-icon">+</span></h3>
-                            <p>Feedback</p>
+                            <h3>100 <span className="sign-icon">+</span></h3>
+                            <p>Courses</p>
                         </div>
                     </div>
 
                     <div className="col-lg-3 col-6 col-sm-3 col-md-3">
                         <div className="single-funfacts">
-                            <h3>500 <span className="sign-icon">+</span></h3>
-                            <p>Workers</p>
+                            <h3>300 <span className="sign-icon">+</span></h3>
+                            <p>Subcriptions</p>
                         </div>
                     </div>
 
                     <div className="col-lg-3 col-6 col-sm-3 col-md-3">
                         <div className="single-funfacts">
-                            <h3>70 <span className="sign-icon">+</span></h3>
+                            <h3>50 <span className="sign-icon">+</span></h3>
                             <p>Contributors</p>
                         </div>
                     </div>
