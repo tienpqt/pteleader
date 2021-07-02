@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import NavbarTwo from '../components/Layouts/NavbarTwo';
+import NavbarTwo from '../components/Layouts/NavbarThree';
 import PageBanner from '../components/Common/PageBanner';
 import BlogDetailsContent from '../components/Blog/BlogDetailsContent';
 import Footer from '../components/Layouts/Footer';
@@ -14,7 +14,7 @@ class BlogDetails extends Component {
                     homePageUrl="/" 
                     homePageText="Home" 
                     activePageText="Blog Details" 
-                    bgImgClass="item-bg3"  
+                    bgImgClass="item-bg2"  
                 /> 
                 <BlogDetailsContent />
                 <Footer/>

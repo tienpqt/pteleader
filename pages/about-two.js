@@ -21,10 +21,12 @@ class AboutTwo extends Component {
                     bgImgClass="item-bg1" 
                 />  
                 <AboutUsContent />
+                {/* 
                 <ProfessionalSolutions />
                 <Team />
                 <PartnerSlider />
                 <CustomerFeedback />
+                */}
                 <Footer/>
             </React.Fragment>
         );

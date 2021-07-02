@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import NavbarTwo from '../components/Layouts/NavbarTwo';
+import NavbarTwo from '../components/Layouts/NavbarThree';
 import PageBanner from '../components/Common/PageBanner';
 import ServicesContent from '../components/Services/ServicesContent';
 import FeedbackSlider from '../components/Common/FeedbackSlider';

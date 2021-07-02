@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import NavbarTwo from '../components/Layouts/NavbarTwo';
+import NavbarTwo from '../components/Layouts/NavbarThree';
 import PageBanner from '../components/Common/PageBanner';
 import Services from '../components/HomeTwo/Services';
 import Footer from '../components/Layouts/Footer';
@@ -14,7 +14,7 @@ class ServicesTwo extends Component {
                     homePageUrl="/" 
                     homePageText="Home" 
                     activePageText="Services Two" 
-                    bgImgClass="item-bg2" 
+                    bgImgClass="item-bg1" 
                 />  
                 <Services />
                 <Footer />

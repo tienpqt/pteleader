@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import NavbarTwo from '../components/Layouts/NavbarTwo';
+import NavbarTwo from '../components/Layouts/NavbarThree';
 import PageBanner from '../components/Common/PageBanner';
 import Footer from '../components/Layouts/Footer';
 
@@ -13,7 +13,7 @@ class Shop extends Component {
                     homePageUrl="/" 
                     homePageText="Home" 
                     activePageText="Shop" 
-                    bgImgClass="item-bg2" 
+                    bgImgClass="item-bg1" 
                 />  
 
                 <div className="shop-area ptb-110">
